@@ -1,46 +1,38 @@
 # Zerobox Manual
 
-## Welcome !
-
 Congratulations!
 
-## Assemble hardware
+1. [Assemble hardware](assemble-hardware.md)
 
-Explanation to assemble hardware.
+2. [Prerequisite](prerequisite.md)
 
-## Prerequisite
+  2.1 [Prepare your computer or tablet](prerequisite.md#Prepare-your-computer-or-tablet)
 
-### Prepare your computer or tablet
+  2.2 [Setup a safe browser](prerequisite.md#Setup-a-safe-browser)
 
-### Setup a safe browser
+  2.3 [Access Cockpit and update](prerequisite.md#Access-Cockpit-and-update)
 
-### Access Cockpit and update
+  2.4 [External device](prerequisite.md#External-device)
 
-### External device
+3. [Zeronet](zeronet.md)
 
-## Zeronet
+  3.1 [Welcome](zeronet.md#Welcome)
 
-### Welcome
+  3.2 [Start page](zeronet.md#Start-page)
 
-### Start page
+  3.3 [ZeroBlog](zeronet.md#ZeroBlog)
 
-Screenshot of the start page
+  3.4 [ZeroTalk](zeronet.md#ZeroTalk)
 
-### ZeroBlog
+  3.5 [ZeroId](zeronet.md#ZeroId)
 
-### ZeroTalk
+  3.6 [ZeroMe](zeronet.md#ZeroMe)
 
-### ZeroId
-
-### ZeroMe (MergerSite)
-
-### ZeroSite
+  3.7 [ZeroSite](zeronet.md#ZeroSite)
 
 
-## Advanced section
+4. [Advanced section](advanced-section.md)
 
-## Advanced Section for developers
+5. [Advanced Section for developers](advanced-section-for-developers.md)
 
-## Appendix
-
-Tor, CJDNS, trackers....
+6. [Appendix](appendix.md)
