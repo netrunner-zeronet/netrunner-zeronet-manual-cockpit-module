@@ -17,6 +17,8 @@ You can use the build script :
 $./build.sh
 ```
 
+Then anything needed for the plugin is inside the generated `dist` folder.
+
 ## plugin structure
 
 ```

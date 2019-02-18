@@ -12,14 +12,14 @@ Cockpit allow you to manage ZeroNet from your device using its web interface. Yo
 
 ### Log In
 
-![Cockpit Log In](../img/cockpit-login.png)
+![Cockpit Log In](img/cockpit-login.png)
 
 Enter the username choosen during the installation and the appropriate password. You also need to tick "Reuse my password for privileged tasks" for update.
 
 ### Update
 
 You can update the Zerobox with the latest package from this section.
-![Cockpit Update](../img/cockpit-update.png)
+![Cockpit Update](img/cockpit-update.png)
 
 ### Zeronet Section
 
@@ -32,7 +32,7 @@ The Zeronet section shows :
  * data being used by Zeronet (e.g 575.8 MiB)
  * Zeronet folder (e.g /opt/zeronet/ZeroNet-master)
  * current status
-![Cockpit Zeronet](../img/cockpit-zeronet.png)
+![Cockpit Zeronet](img/cockpit-zeronet.png)
 
 #### Start and Stop Zeronet
 
