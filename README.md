@@ -17,4 +17,22 @@ You can use the build script :
 $./build.sh
 ```
 
-## File needed
+## plugin structure
+
+```
+.
+├── advanced-section-for-developers.html
+├── advanced-section.html
+├── appendix.html
+├── assemble-hardware.html
+├── img
+│   ├── cockpit-login.png
+│   ├── cockpit-update.png
+│   └── cockpit-zeronet.png
+├── manifest.json
+├── manual.html
+├── prerequisite.html
+├── README.md
+├── wizard.html
+└── zeronet.html
+```
