@@ -6,6 +6,11 @@ Congratulations!
 
 2. [Wizard](wizard.md)
 
+  2.1 [Access the box](wizard.md#Access-the-box)
+
+  2.2 [Start the wizard](wizard.md#Access-the-box)
+
+
 3. [Prerequisite](prerequisite.md)
 
   3.1. [Setup a safe browser on your device](prerequisite.md#Setup-a-safe-browser-on-your-device)
