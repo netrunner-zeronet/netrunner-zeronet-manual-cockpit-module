@@ -4,7 +4,7 @@
   "tools": {
       "zeronet": {
           "label": "Zeronet Manual",
-          "path": "manual.html"
+          "path": "welcome.html"
       }
   }
 }

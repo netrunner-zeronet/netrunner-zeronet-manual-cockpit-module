@@ -2,11 +2,22 @@
     <title>Zeronet Manual</title>
     <meta charset="utf-8">
     <link href="../base1/cockpit.css" type="text/css" rel="stylesheet">
+    <link href="./assets/stylesheets/style.css" type="text/css" rel="stylesheet">
     <script src="../base1/cockpit.js"></script>
 </head>
 <body>
     <div class="container-fluid">
-      $body$
+      $for(include-before)$
+        $include-before$
+      $endfor$
+      <div class="col-md-8">
+        $body$
+      </div>
+      $if(toc)$
+      <div class="col-md-2 toc">
+        $toc$
+      </div>
+      $endif$
     </div>
 </body>
 </html>
