@@ -34,7 +34,6 @@ Then anything needed for the plugin is inside the generated `dist` folder.
 ├── manifest.json
 ├── manual.html
 ├── prerequisite.html
-├── README.md
 ├── wizard.html
 └── zeronet.html
 ```
