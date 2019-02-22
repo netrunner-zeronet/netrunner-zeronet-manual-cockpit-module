@@ -1,0 +1,3 @@
+[submodule "manual"]
+	path = manual
+	url = git@github.com:netrunner-zeronet/netrunner-zeronet-manual.git

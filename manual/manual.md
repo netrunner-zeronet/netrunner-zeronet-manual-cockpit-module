@@ -1,8 +1,0 @@
-0. [Welcome](welcome.html)
-1. [Assemble hardware](assemble-hardware.html)
-2. [Wizard](wizard.html)
-3. [Prerequisite](prerequisite.html)
-4. [Zeronet](zeronet.html)
-5. [Advanced section](advanced-section.html)
-6. [Advanced Section for developers](advanced-section-for-developers.html)
-7. [Appendix](appendix.html)
