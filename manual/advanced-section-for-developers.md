@@ -1,1 +1,0 @@
-# Advanced section for developers
