@@ -4,4 +4,4 @@
 	dh $@
 
 override_dh_auto_configure:
-	./build.sh
+	dh_auto_configure -- ./build.sh
