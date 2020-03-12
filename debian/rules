@@ -2,6 +2,6 @@
 
 %:
 	dh $@
-
+  
 override_dh_auto_configure:
-	./build.sh
+		/bin/bash ./build.sh    
