@@ -7,8 +7,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/netrunner-zeronet/netrunner-zeronet-cockpit-module
 
 Package: netrunner-zeronet-manual-cockpit-module
-Architecture: all
-Multi-Arch: foreign
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: netrunner zeronet manual module for cockpit
  This package contains the zeronet manual module for cockpit

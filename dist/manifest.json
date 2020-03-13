@@ -1,0 +1,10 @@
+{
+  "version": 0,
+
+  "tools": {
+      "zeronet": {
+          "label": "Zeronet Manual",
+          "path": "welcome.html"
+      }
+  }
+}

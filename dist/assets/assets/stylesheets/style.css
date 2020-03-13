@@ -1,0 +1,47 @@
+.toc, .right-toc {
+  margin-top: 6%;
+  position: fixed;
+}
+
+.right-toc {
+  right: 0;
+}
+
+.toc ol, .right-toc ul {
+  list-style-type: none;
+}
+
+.right-toc ul {
+  margin-left: -17px;
+}
+
+.right-toc ul li {
+  margin-top: 8px;
+}
+
+.toc ol li {
+  margin-top: 12px;
+  font-size: 1.3rem;
+}
+
+.main {
+  margin-left: 25%;
+  margin-top: 4%;
+  font-size: 1.2rem;
+}
+
+.main h1 {
+  padding-bottom: 20px;
+}
+
+.main p {
+  font-size: 1.4rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
